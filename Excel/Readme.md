@@ -2,7 +2,7 @@
 ------------------------------------------
 The place where you started to learn excel. All you need is 7 Days to learn this with the consistency 10 minutes per day.
 ## Intro of learning
-We will start with the sample and 10 way how to analyze the data. PLEASE BEFORE YOU START, DOWNLOAD THE RAW DATA FIRST IN THIS FOLDER.
+We will start with the sample and 10 way how to analyze the data. Before you start, please download the "Raw Data" file. It is the base of our training.
 * Descriptive Statistics
 * Exploratory Data Analysis (EDA)
 * Sales Analysis (with Formulas)
